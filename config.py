@@ -1,1 +1,1 @@
-token = '5371416956:AAFANGC4BaJ8ZFM2zD6AEpvSPEOwrY2Wjw4'
+token = '<>'
